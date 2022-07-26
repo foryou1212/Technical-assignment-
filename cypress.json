@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://localhost:3000/#",
+    "testFiles": "**/*.feature",
+    "experimentalNetworkStubbing": true,
+    "pluginsFile": "cypress/plugins/index.js",
+    "supportFile": "cypress/support/index.js",
+    "defaultCommandTimeout": 20000
+}
